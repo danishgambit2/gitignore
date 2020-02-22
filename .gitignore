@@ -1,5 +1,5 @@
 # files to ignore
-new-file.txt
+another-file.txt
 
 # directories ( & content) to ignore
 bin/

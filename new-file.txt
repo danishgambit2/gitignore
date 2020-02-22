@@ -1,0 +1,7 @@
+This is the first one line of the new-file.txt
+
+Should be ignored ?
+
+Additional line added
+
+This file is now being tracked
