@@ -1,3 +1,8 @@
+# files to ignore
 new-file.txt
 
+# directories ( & content) to ignore
 bin/
+
+# ignore all files of type tmp
+*.tmp
